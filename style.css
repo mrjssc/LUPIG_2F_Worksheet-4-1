@@ -1,0 +1,145 @@
+/*External CSS*/
+
+body{
+	text-align: center;
+	background-image: url("bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	border: 2px solid black;
+	padding: 20px;
+}
+.head{
+	font-family: Arial;
+	font-size: 30px;
+	font-weight: bolder;
+	color: green;
+	text-indent: 5px;
+}
+a{
+	text-decoration: none;
+	font-family: Arial;
+	color: green;
+}
+a:hover{
+	color: white;
+	border: 2px solid green;
+	background-color: green;
+	border-radius: 8px
+}
+img{
+	width: 150px;
+	height: 150px;
+	clip-path: circle();
+}
+.self-intro{
+	text-align: left;
+	font-family: Arial;
+	color: white;
+	font-style: italic;
+	font-size: 20px;
+	border: 2px solid green;
+	background-color: darkgreen;
+	text-indent: 5px;
+}
+p{
+	margin: 5px auto;
+	text-align: left;
+	text-indent: 50px;
+	font-family: Arial;
+	color: black;
+	font-size: 17px;
+	padding-bottom: 15px;
+}
+.educ-bg{
+	text-align: left;
+	font-family: Arial;
+	color: black;
+	font-size: 20px;
+	border-bottom: 2px solid black;
+	padding: 5px;
+	margin: 10px auto;
+}
+table{
+	width: 100%;
+	color: gray;
+	border-collapse: collapse;
+	padding: 8px;
+	margin: 0px auto;
+}
+th{
+	font-family: Arial;
+	color: white;
+	font-size: 17px;
+	border: 1px solid white;
+	background-color: darkgreen;
+	height: 40px;
+}
+td{
+	font-family: Arial;
+	color: black;
+	font-size: 17px;
+	text-align: left;
+	text-indent: 10px;
+	border: 1px solid white;
+	height: 40px;
+}
+.info{
+	font-family: Arial;
+	color: black;
+	font-size: 17px;
+	text-align: left;
+	text-indent: 10px;
+	margin: 2px auto;
+}
+.expertise{
+	text-align: left;
+	font-family: Arial;
+	color: white;
+	font-style: italic;
+	font-size: 20px;
+	border: 2px solid green;
+	background-color: darkgreen;
+	text-indent: 5px;
+}
+.exp-list ul{
+	list-style-type: square;
+}
+.exp-list ul li{
+	font-family: Arial;
+	color: black;
+	text-align: left;
+	text-indent: 10px;
+	margin: 2px 5px;
+}
+.info-tech{
+	text-align: left;
+	font-family: Arial;
+	color: white;
+	font-style: italic;
+	font-size: 20px;
+	border: 2px solid green;
+	background-color: darkgreen;
+	text-indent: 5px;
+}
+.apps{
+	text-align: left;
+	font-family: Arial;
+	color: white;
+	font-style: italic;
+	font-size: 20px;
+	border: 2px solid green;
+	background-color: darkgreen;
+	text-indent: 5px;
+	margin: 3px 5px;
+}
+.app-list ol{
+	font-family: Arial;
+}
+.app-list ol li{
+	font-family: Arial;
+	color: black;
+	text-align: left;
+	text-indent: 10px;
+	margin: 2px 5px;
+}
