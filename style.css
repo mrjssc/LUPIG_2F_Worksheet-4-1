@@ -92,6 +92,28 @@ td{
 	text-indent: 10px;
 	margin: 2px auto;
 }
+.activities{
+	text-align: left;
+	font-family: Arial;
+	color: white;
+	font-style: italic;
+	font-size: 20px;
+	border: 2px solid green;
+	background-color: darkgreen;
+	text-indent: 5px;
+}
+.act-list ul{
+	list-style-type: square;
+}
+.act-list ul li{
+	font-family: Arial;
+	text-align: left;
+	text-indent: 10px;
+	margin: 2px 5px;
+}
+.act-list ul li a{
+	color: black;
+}
 .expertise{
 	text-align: left;
 	font-family: Arial;
