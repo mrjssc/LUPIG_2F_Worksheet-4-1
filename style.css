@@ -114,6 +114,9 @@ td{
 .act-list ul li a{
 	color: black;
 }
+.act-list ul li a:hover{
+	color: white;
+}
 .expertise{
 	text-align: left;
 	font-family: Arial;
